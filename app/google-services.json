@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "863259077307",
+    "firebase_url": "https://assignment-5eeb8.firebaseio.com",
+    "project_id": "assignment-5eeb8",
+    "storage_bucket": "assignment-5eeb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863259077307:android:3c9891d0d366b5507bd79e",
+        "android_client_info": {
+          "package_name": "com.blueapple.videoplay_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863259077307-l110dv1c5pl8fludtcqiu3uqdeo46u5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueapple.videoplay_counter",
+            "certificate_hash": "77be185211870a1703726aca2fa58f9444a6d950"
+          }
+        },
+        {
+          "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7u0DDpooLy1THJU3y8lpAdlQLZrguP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863259077307:android:5517a9f291914262",
+        "android_client_info": {
+          "package_name": "com.sachin.asstrack1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863259077307-h5eo0nd6i4ljj3ta07akglvvdh17q0ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.asstrack1",
+            "certificate_hash": "411de3e824c73569d7080261058be715bb49d132"
+          }
+        },
+        {
+          "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7u0DDpooLy1THJU3y8lpAdlQLZrguP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863259077307:android:f893f837095fac14",
+        "android_client_info": {
+          "package_name": "com.sachin.asstrack2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863259077307-1ltg6kj9irvh38qnrri11mon44ur3ru8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.asstrack2",
+            "certificate_hash": "411de3e824c73569d7080261058be715bb49d132"
+          }
+        },
+        {
+          "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7u0DDpooLy1THJU3y8lpAdlQLZrguP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863259077307:android:c8b4d67afeadc54f",
+        "android_client_info": {
+          "package_name": "com.sachin.revcloud_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863259077307-s5730681u070nhpcmfauga705m16u5jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachin.revcloud_storage",
+            "certificate_hash": "411de3e824c73569d7080261058be715bb49d132"
+          }
+        },
+        {
+          "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7u0DDpooLy1THJU3y8lpAdlQLZrguP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863259077307-0u0ejghln4798aaojs3dl27pg7u422mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
